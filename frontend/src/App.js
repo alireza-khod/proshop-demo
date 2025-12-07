@@ -1,6 +1,6 @@
 const App = () => {
   return(
-    <div>hi guys</div>
+    <h1>hi its just a test for mwe</h1>
   )
 }
 export default App
